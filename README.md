@@ -11,5 +11,5 @@ You can play around with the satellite trajectory by:
 - changing the duration of the simulation.
 
 <p align="center">
-  <img src="./satellite_transfer_1.gif" alt="Satellite transfer from Earth to Mars" width="600" />
+  <img src="./Orbit_Transfer/satellite_transfer_1.gif" alt="Satellite transfer from Earth to Mars" width="600" />
 </p>
